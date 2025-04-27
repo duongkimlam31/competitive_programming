@@ -1,0 +1,11 @@
+Problem websites:
+
+Main: https://neetcode.io/roadmap
+
+Skipped: Array 5,6
+
+
+Extra: https://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/
+https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/
+
+NO means the code is currently not optimal
